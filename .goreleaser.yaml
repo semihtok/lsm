@@ -20,8 +20,8 @@ builds:
       - ppc64le
       - s390x
     goarm:
-      - 6
-      - 7
+      - "6"
+      - "7"
 
 brews:
   - name: lsm
