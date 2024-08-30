@@ -11,7 +11,7 @@ A high-performance, concurrent file system analysis tool that efficiently calcul
 <img src="images/lsm-banner.png" alt="lsm" width="600"/>
 
 #### Listing directory with a specific file type:
-<img src="images/lsm-gt.png" alt="lsm-type" width="700"/>
+<img src="images/lsm-type.png" alt="lsm-type" width="700"/>
 
 #### Listing directory with a specific size limit:
 <img src="images/lsm-gt.png" alt="lsm-gt" width="700"/>
