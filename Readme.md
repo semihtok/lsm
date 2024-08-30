@@ -31,7 +31,7 @@ A high-performance, concurrent file system analysis tool that efficiently calcul
 ### Homebrew (macOS and Linux)
 
 ```bash
-brew install semihtok/tap/lsm
+ brew install semihtok/homebrew-lsm/lsm
 ```
 
 ### Manual Installation
