@@ -2,7 +2,7 @@
 [![GoDoc](https://godoc.org/github.com/semihtok/lsm?status.svg)](https://godoc.org/github.com/semihtok/lsm)
 [![License](https://img.shields.io/github/license/saltstack/salt)](https://raw.githubusercontent.com/semihtok/lsm/master/LICENSE)
 
-# lsm (ls modern)
+# lsm (α)(ls modern)
 A high-performance, concurrent file system analysis tool that efficiently calculates and displays detailed directory and file sizes, optimized for handling large directories and complex file structures.
 
 ## Features
